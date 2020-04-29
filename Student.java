@@ -1,5 +1,5 @@
 public class Student{
-	private Integer sid;
+	private Integer sid;	//Die001
 	private String name;
 	
 	public void setName(String name){
